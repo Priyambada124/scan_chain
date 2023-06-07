@@ -1,0 +1,20 @@
+
+61. Printing statistics.
+
+=== scan_chain ===
+
+   Number of wires:                 67
+   Number of wire bits:             96
+   Number of public wires:           4
+   Number of public wire bits:      33
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 93
+     sky130_fd_sc_hd__buf_1         33
+     sky130_fd_sc_hd__dfrtp_2       30
+     sky130_fd_sc_hd__mux2_2        29
+     sky130_fd_sc_hd__or2_2          1
+
+   Chip area for module '\scan_chain': 1244.944000
+
